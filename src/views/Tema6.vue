@@ -51,16 +51,16 @@
         .col-lg-8
           p.mt-2 En esta era tecnológica, los datos forman parte del activo intangible más valioso de las empresas, facilitando la identificación de los datos que se extraen, mediante las diferentes fuentes de información, con el fin de obtener una visión panorámica y precisa del tema de interés; por lo tanto, se requiere contar con la disposición para aprender sobre los siguientes tipos de instrumentos de recolección:
           
-          h3 Observación
+          h5 Observación
           p Este proceso requiere de visualización constante del comportamiento del objeto de estudio, a través de registros periódicos en una planilla de campo, de forma ordenada, que permite hacer la evaluación de los resultados y orientar decisiones para el cumplimiento de objetivos. 
 
-          h3 Encuesta
+          h5 Encuesta
           p Se fundamenta en obtener datos por medio de la formulación de preguntas específicas a través de un entrevistador, quien conduce el ejercicio, orientado hacia la solución de una solicitud específica.
 
-          h3 Entrevista
+          h5 Entrevista
           p Se fundamenta en obtener datos por medio de la formulación de preguntas específicas a través de un entrevistador, quien conduce el ejercicio, orientado hacia la solución de una solicitud específica.
 
-          h3 Grupo de enfoque 
+          h5 Grupo de enfoque 
           p Este procedimiento requiere de la agrupación de individuos, quienes interactúan entre sí, en búsqueda de opinar y resolver un tema en particular; esta metodología permite identificar los diferentes puntos de vista, para la solución de problemas de forma efectiva. 
       
       .row(titulo="Bases de datos")

@@ -95,7 +95,6 @@
         .cajon.color-acento-contenido.p-4
           p Todo lo aprendido anteriormente, se puede consolidar en el portafolio de servicios que es el documento que enuncia, describe y establece los servicios ofrecidos por las empresas, mostrando el alcance y permitiendo comunicar las ofertas a los clientes y al público en general; tiene como objetivo atraer nuevos clientes y socios potenciales.
 
-
 </template>
 
 <script>

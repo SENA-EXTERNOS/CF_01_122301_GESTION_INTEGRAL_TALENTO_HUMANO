@@ -16,7 +16,7 @@
           p Para dar inicio a este componente, comencemos aclarando la diferencia entre atención y servicio al cliente. Es importante que se entienda que la atención al cliente está enfocada en la solución, se refiere a la estrategia que los empleados utilizan para brindar una experiencia satisfactoria al cliente. 
           .cajon.color-acento-contenido.p-4
             p Desde una perspectiva empresarial y comercial, cuando nos referimos al concepto cliente, este se puede definir como la persona o el usuario que compra, alquila, adquiere, o presta un producto o servicio de manera periódica o permanente, para uso propio, de un tercero, o compartido, buscando satisfacer cualquier tipo de necesidad. 
-          p.mt-2 Frente al contexto organizacional, identificamos que todas las áreas que componen una empresa, se encuentran relacionadas con el concepto de cliente, dado que, según la operación a desarrollar, habrá uno o varios usuarios, ya sean internos o externos, que se benefician o afectan con los resultados, bienes, o servicios que se obtienen. Este concepto también involucra empleados, ejecutivos e inversionistas.
+          p.mt-3 Frente al contexto organizacional, identificamos que todas las áreas que componen una empresa, se encuentran relacionadas con el concepto de cliente, dado que, según la operación a desarrollar, habrá uno o varios usuarios, ya sean internos o externos, que se benefician o afectan con los resultados, bienes, o servicios que se obtienen. Este concepto también involucra empleados, ejecutivos e inversionistas.
       
       .row.justify-content-start.align-items-center.mb-5           
         .col-lg-5

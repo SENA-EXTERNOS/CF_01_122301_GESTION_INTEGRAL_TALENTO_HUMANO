@@ -74,7 +74,7 @@
         .col-lg-2
           img(src='@/assets/curso/temas/tema4/tema4-img8.svg', alt='Texto que describa la imagen').img-animacion1
         .col-lg-10.justify-content-center
-          p Después de clarificar y enunciar los tipos de comunicación que son segmentados de acuerdo con la población de interés, se estudian las técnicas de comunicación que se acostumbra llevar a cabo, dentro de las organizaciones
+          p Después de clarificar y enunciar los tipos de comunicación que son segmentados de acuerdo con la población de interés, se estudian las técnicas de comunicación que se acostumbra llevar a cabo, dentro de las organizaciones.
 
     .row 
       p Para llevar a cabo una comunicación eficazmente, existen técnicas que mejoran la competencia en este ámbito y estas habilidades se encuentran conformadas por:
