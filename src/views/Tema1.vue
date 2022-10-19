@@ -99,8 +99,8 @@
     .row.justify-content-center.mt-5
       p Es por esto, que las características de la población se identifican de acuerdo con los siguientes parámetros:   
       AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
-        .row(titulo="Segmentación por edades")
-          p El mundo se encuentra en constante cambio y evolución generando, al mismo tiempo, cambios en la sociedad; es por esto por lo que los grupos poblacionales son identificados de acuerdo con las edades promedio, grupos etarios y rangos de edad.
+        .row(titulo="Densidad poblacional")
+          p Son datos relacionados con la cantidad de habitantes de un área específica de un grupo de individuos, en donde se pueden validar aspectos como: tasas o índices de natalidad, mortalidad, migración, inmigración y emigración.
           .row.justify-content-center
             .col-lg-8
               .row
