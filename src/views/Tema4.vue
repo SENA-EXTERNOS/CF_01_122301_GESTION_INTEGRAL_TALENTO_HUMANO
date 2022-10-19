@@ -34,7 +34,7 @@
                 .col-xl-6
                   p Este tipo de comunicación, acostumbra contar con directrices o deberes, desde los líderes o jefes de equipo, hacia sus trabajadores o subordinados, distinguiéndose el rango de superioridad.
 
-            .tarjeta.color-acento-contenido--borde.colorTab.p-3(style="background-color:#fdf2c5" titulo="Comunicación descendente")
+            .tarjeta.color-acento-contenido--borde.colorTab.p-3(style="background-color:#fdf2c5" titulo="Comunicación ascendente")
               .row
                 .col-xl-6.mb-4
                   figure
@@ -102,7 +102,7 @@
         .row
           .col-md-8.mb-4.mb-md-0
             h4 Escucha activa
-            p La relevancia del lenguaje no verbal, permite mejorar la interacción entre los emisores y receptores, haciendo referencia al buen manejo de las posturas, los gestos y las expresiones faciales que hacen que la comunicación sea eficaz.
+            p El objetivo de esta técnica es comprender la información que es recibida por otros emisores, permitiendo demostrar interés frente al público, con relación a los temas a tratar.
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema4/tema4-img11.svg', alt='Texto que describa la imagen')  
@@ -148,25 +148,25 @@
             .col-lg-6
               ol.color-vineta.lista-ul
                 li
-                  i.fas.fa-angle-right
+                  i.color-vineta.fas.fa-angle-right
                   | Llamadas
                 li 
-                  i.fas.fa-angle-right
+                  i.color-vineta.fas.fa-angle-right
                   | Chats
                 li 
-                  i.fas.fa-angle-right
+                  i.color-vineta.fas.fa-angle-right
                   | Correo electrónico
 
             .col-lg-6
               ol.color-vineta.lista-ul
                 li 
-                  i.fas.fa-angle-right
+                  i.color-vineta.fas.fa-angle-right
                   | Redes sociales   
                 li 
-                  i.fas.fa-angle-right
+                  i.color-vineta.fas.fa-angle-right
                   | Mensajes de texto
                 li 
-                  i.fas.fa-angle-right
+                  i.color-vineta.fas.fa-angle-right
                   | Altavoces
 
 

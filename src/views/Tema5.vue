@@ -40,12 +40,12 @@
             p Es el derecho con el que cuenta toda persona para exigir una solución, oposición o contrariedad, referente a la prestación deficiente de un bien o servicio adquirido, para ser revisada y evaluada.
           
           .tarjeta.color-infografica-tema1.p-3(x="57.5%" y="48%" numero="")
-            .h5.mb-2 Denuncia  
-            p Es la notificación de un hecho relacionado con una presunta infracción de las normas.
+            .h5.mb-2 Queja  
+            p Relata la manifestación de inconformidad o descontento frente a una situación en particular, que se considera irregular o inadecuada, relacionada con el área, compañero de trabajo, o con el jefe inmediato.
 
           .tarjeta.color-infografica-tema1.p-3(x="69%" y="22%" numero="")
-            .h5.mb-2 Queja
-            p Relata la manifestación de inconformidad o descontento frente a una situación en particular, que se considera irregular o inadecuada, relacionada con el área, compañero de trabajo, o con el jefe inmediato.
+            .h5.mb-2 Denuncia
+            p Es la notificación de un hecho relacionado con una presunta infracción de las normas.
 
           .tarjeta.color-infografica-tema1.p-3(x="35%" y="74%" numero="")
             .h5.mb-2 Sugerencia

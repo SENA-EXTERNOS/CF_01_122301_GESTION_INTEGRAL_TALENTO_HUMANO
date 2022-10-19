@@ -39,7 +39,7 @@
               p Cabe considerar que, en las organizaciones, el cliente toma un papel dual, porque, según el rol desempeñado, el bien o el servicio recibido puede ser utilizado como recurso para la transformación técnica que permite, a ese usuario, ser proveedor frente a otro cliente interno.
 
               h4 Cliente externo  
-              p Se refiere a uno o varios individuos, naturales o jurídicos, que no tienen relación directa con la empresa y no pertenecen a la organización, pero pagan para adquirir todo tipo de bienes y/o servicios, impulsando las ventas y la rentabilidad. Los clientes externos son un foco importante para el marketing y la atracción de nuevos clientes y pueden negociar con clientes internos.
+              p Se refiere a uno o varios individuos, naturales o jurídicos, que no tienen relación directa con la empresa y no pertenecen a la organización, pero pagan para adquirir todo tipo de bienes y/o servicios, impulsando las ventas y la rentabilidad. Los clientes externos son un foco importante para el #[i marketing] y la atracción de nuevos clientes y pueden negociar con clientes internos.
           
             .col-lg-4
               figure

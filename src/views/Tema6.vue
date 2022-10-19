@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 6
-      h1 Titulo de primer nivel
+      h1 Sistemas de información
 
     .row.justify-content-center
       img(src='@/assets/curso/temas/tema6/tema6-img1.png', alt='Texto que describa la imagen')
@@ -28,19 +28,19 @@
               .col-sm.mb-5.mb-sm-0
                 ol.color-vineta.lista-ul
                   li
-                    i.fas.fa-angle-right
+                    i.color-vineta.fas.fa-angle-right
                     | APPS
                   li
-                    i.fas.fa-angle-right
+                    i.color-vineta.fas.fa-angle-right
                     | Formularios digitales
                   li
-                    i.fas.fa-angle-right
+                    i.color-vineta.fas.fa-angle-right
                     | Páginas web
                   li 
-                    i.fas.fa-angle-right
-                    | Leads scoring.    
+                    i.color-vineta.fas.fa-angle-right
+                    | #[i Leads scoring]
                   li
-                    i.fas.fa-angle-right
+                    i.color-vineta.fas.fa-angle-right
                     | Hojas de cálculo              
 
       .row(titulo="Instrumentos de  recolección de datos")
@@ -55,7 +55,7 @@
           p Este proceso requiere de visualización constante del comportamiento del objeto de estudio, a través de registros periódicos en una planilla de campo, de forma ordenada, que permite hacer la evaluación de los resultados y orientar decisiones para el cumplimiento de objetivos. 
 
           h5 Encuesta
-          p Se fundamenta en obtener datos por medio de la formulación de preguntas específicas a través de un entrevistador, quien conduce el ejercicio, orientado hacia la solución de una solicitud específica.
+          p Radica en aprehender los datos de la población para su estudio, con la ayuda de cuestionarios con preguntas abiertas y/o cerradas, gracias a canales físicos o digitales, que permiten identificar las líneas de tendencias del objeto estudiado.
 
           h5 Entrevista
           p Se fundamenta en obtener datos por medio de la formulación de preguntas específicas a través de un entrevistador, quien conduce el ejercicio, orientado hacia la solución de una solicitud específica.

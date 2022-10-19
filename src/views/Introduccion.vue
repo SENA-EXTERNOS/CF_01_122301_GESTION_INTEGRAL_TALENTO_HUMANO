@@ -17,7 +17,7 @@
           p Apreciado aprendiz, bienvenido a este componente formativo donde se abordará los conocimientos necesarios para la identificación, clasificación y comunicación de las solicitudes realizadas por los clientes, de acuerdo con los protocolos establecidos; por este motivo, es importante comprender las generalidades de la atención y servicio al cliente, debido a que es catalogado como el punto de partida para que el usuario tenga una experiencia positiva con la organización.
 
     .row
-    p.mt-3 En el siguiente video conocerá, de forma general, la temática que se estudiará en el presente recurso educativo.
+      p.mt-3 En el siguiente video conocerá, de forma general, la temática que se estudiará en el presente recurso educativo.
 
     .row.mt-5
       .video
