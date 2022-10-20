@@ -104,18 +104,53 @@
           .row.justify-content-center
             .col-lg-8
               .row
-                .col-lg
-                  figure
-                    img(src='@/assets/curso/temas/tema1/tema1-img12.png', alt='Texto que describa la imagen')             
+                .col-md.tarjeta.color-primario3.py-3
+                  .row.justify-content-center
+                    .col-5
+                      figure
+                        img(src='@/assets/curso/temas/tema1/1.png', alt='Texto que describa la imagen')
+                    
+                  h3.mt-2.text-center Población 7.500
+                  
+                .col-md.tarjeta.color-primario3.py-3
+                  .row.justify-content-center
+                    .col-5
+                      figure
+                        img(src='@/assets/curso/temas/tema1/2.png', alt='Texto que describa la imagen')
+                  h3.mt-2.text-center Superficie 20 km2 
+                  
+                .col-md.tarjeta.color-primario3.py-3
+                  .row.justify-content-center
+                    .col-5
+                      figure
+                        img(src='@/assets/curso/temas/tema1/3.png', alt='Texto que describa la imagen')
+                  h3.mt-2.text-center Habitantes por km2  375
+                                                        
 
         .row(titulo="Segmentación por edades")
           p El mundo se encuentra en constante cambio y evolución generando, al mismo tiempo, cambios en la sociedad; es por esto por lo que los grupos poblacionales son identificados de acuerdo con las edades promedio, grupos etarios y rangos de edad.
           .row.justify-content-center
             .col-lg-8
               .row
-                .col-lg
+                .col-lg-4.mt-5
                   figure
-                    img(src='@/assets/curso/temas/tema1/tema1-img13.png', alt='Texto que describa la imagen')        
+                    img(src='@/assets/curso/temas/tema1/5.png', alt='Texto que describa la imagen')             
+                .col-lg-8
+                  figure
+                    img(src='@/assets/curso/temas/tema1/4.png', alt='Texto que describa la imagen')                
+                //.col-md.tarjeta.color-primario3.py-3
+                  .row.justify-content-center
+                    .col-4
+                      figure
+                        img(src='@/assets/curso/temas/tema1/1.png', alt='Texto que describa la imagen')
+                    
+                  h3.mt-2.text-center Población 700
+                  
+                //.col-md.py-3
+                  .row.justify-content-center
+                    .col-12
+                      figure
+                        img(src='@/assets/curso/temas/tema1/4.png', alt='Texto que describa la imagen')
 
         .row(titulo="Segmentación sociodemográfica")
           p Esta característica se encuentra directamente relacionada con el entorno social y económico del individuo, en donde se identifican variables como sexo, ubicación demográfica, nivel de estudios, ingresos económicos e intereses de estos.
