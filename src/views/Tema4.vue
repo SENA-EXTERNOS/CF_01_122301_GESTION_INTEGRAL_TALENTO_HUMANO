@@ -83,7 +83,6 @@
       .py-3.py-md-4(titulo="Preparación del mensaje")
         .row
           .col-md-8.mb-4.mb-md-0
-            h4 Preparación del mensaje
             p Hace referencia a la elaboración y previa revisión que debe tener la información antes de ser compartida, teniendo en cuenta que la planeación del método de comunicación debe atender al lenguaje, el tipo de comunicación, el contexto e impacto, generando así que el receptor comprenda el mensaje, de manera eficaz y correcta.
           .col-md-4
             figure
@@ -92,7 +91,6 @@
       .py-3.py-md-4(titulo="Claridad del mensaje")
         .row
           .col-md-8.mb-4.mb-md-0
-            h4 Claridad del mensaje
             p Uno de los principales pilares de la comunicación se refiere a la precisión, comprensión y coherencia de la forma en que son emitidos los mensajes; también se debe tener en cuenta el interés que puedan generar: la información, la periodicidad, y el momento adecuado para realizar la difusión.
           .col-md-4
             figure
@@ -101,7 +99,6 @@
       .py-3.py-md-4(titulo="Escucha activa")
         .row
           .col-md-8.mb-4.mb-md-0
-            h4 Escucha activa
             p El objetivo de esta técnica es comprender la información que es recibida por otros emisores, permitiendo demostrar interés frente al público, con relación a los temas a tratar.
           .col-md-4
             figure
@@ -110,7 +107,6 @@
       .py-3.py-md-4(titulo="Comunicación no verbal")
         .row
           .col-md-8.mb-4.mb-md-0
-            h4 Comunicación no verbal
             p La relevancia del lenguaje no verbal, permite mejorar la interacción entre los emisores y receptores, haciendo referencia al buen manejo de las posturas, los gestos y las expresiones faciales que hacen que la comunicación sea eficaz.
           .col-md-4
             figure
@@ -119,7 +115,6 @@
       .py-3.py-md-4(titulo="Síntesis")
         .row
           .col-md-8.mb-4.mb-md-0
-            h4 Síntesis
             p La síntesis permite la comunicación eficaz, directa y concisa, mejorando el diálogo y disminuyendo la tendencia al aburrimiento o desinterés, en aquellos casos en que los temas son extensos.
           .col-md-4
             figure
