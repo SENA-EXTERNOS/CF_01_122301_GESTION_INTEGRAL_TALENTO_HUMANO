@@ -3,12 +3,6 @@
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     
-    .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
-        span
-          i.fas.fa-puzzle-piece
-      h1 Actividad didáctica 
-    
     .titulo-segundo.color-acento-contenido
       h2 Falso / verdadero
 
@@ -18,7 +12,7 @@
           figure
             img(src="@/assets/curso/temas/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        p.mb-4 Este recorrido introductorio sobre la administración, proporciona conceptos claves de aplicación para la práctica empresarial y organizacional; por esta razón es importante realizar un repaso sobre los principales temas abordados, con la intención de afianzar y reforzar al aprendiz.
+        p.mb-4 Esta actividad se plantea con el objetivo de evaluar la aprehensión de los conceptos expuestos a lo largo del componente formativo. Leer atentamente las siguientes afirmaciones y determinar si el enunciado es verdadero o falso.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
