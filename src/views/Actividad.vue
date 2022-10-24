@@ -2,9 +2,6 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-tasks" titulo="Actividad didáctica")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    
-    .titulo-segundo.color-acento-contenido
-      h2 Falso / verdadero
 
     .row.mb-5.justify-content-center.align-items-center.align-items-lg-stretch
       .col-6.col-md-4.col-lg-3.mb-4.mb-md-0
@@ -12,6 +9,8 @@
           figure
             img(src="@/assets/curso/temas/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
+        .titulo-segundo.color-acento-contenido
+          h2 Fundamentos de la atención y servicio al cliente      
         p.mb-4 Esta actividad se plantea con el objetivo de evaluar la aprehensión de los conceptos expuestos a lo largo del componente formativo. Leer atentamente las siguientes afirmaciones y determinar si el enunciado es verdadero o falso.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
