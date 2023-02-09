@@ -6,17 +6,17 @@
       .titulo-principal__numero
         span 4
       h1 Comunicación
-  
+
     .row.justify-content-around.aling-items-center.bg1-4
       .col-lg-11
         .bloque-texto-g.color-primario.p-2.p-sm-4.p-md-5
           .bloque-texto-g__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema4/tema4-img1.svg')})`}")
           .bloque-texto-g__texto.p-4
-            p La comunicación se define como el intercambio de información que se produce a través de un emisor y uno o más receptores, con el objetivo de expresar sentimientos, establecerse socialmente, generar preguntas y resolver inquietudes, a través de mecanismos verbales y no verbales.     
+            p La comunicación se define como el intercambio de información que se produce a través de un emisor y uno o más receptores, con el objetivo de expresar sentimientos, establecerse socialmente, generar preguntas y resolver inquietudes, a través de mecanismos verbales y no verbales.
             <br><br>
             p.mt-5 Al interior de las organizaciones se presentan diferentes tipos de comunicación que son segmentadas de acuerdo con la población de interés.
-    
-   
+
+
       .row
         p.mt-3 A continuación, se presentan los tipos de comunicación que se pueden encontrar en un contexto empresarial.
 
@@ -41,14 +41,14 @@
                     img(src='@/assets/curso/temas/tema4/tema4-img4.png', alt='Texto que describa la imagen')
                 .col-xl-6
                   p Se refiere a la información que fluye desde los trabajadores hacia los altos mandos; este tipo de comunicación puede incluir informes o entregables estipulados en los deberes; además, estos datos son utilizados para la toma de decisiones o información importante para las organizaciones.
-            
+
             .tarjeta.color-acento-contenido--borde.colorTab.p-3(style="background-color:#fdf2c5" titulo="Comunicación horizontal")
               .row
                 .col-xl-6.mb-4
                   figure
                     img(src='@/assets/curso/temas/tema4/tema4-img5.svg', alt='Texto que describa la imagen')
                 .col-xl-6
-                  p Este tipo de comunicación tiene como objetivo intercambiar información dentro de la organización, la cual involucra colaboradores que cuentan con el mismo nivel jerárquico en cualquiera de las áreas o departamentos de la empresa. 
+                  p Este tipo de comunicación tiene como objetivo intercambiar información dentro de la organización, la cual involucra colaboradores que cuentan con el mismo nivel jerárquico en cualquiera de las áreas o departamentos de la empresa.
 
             .tarjeta.color-acento-contenido--borde.colorTab.p-3(style="background-color:#fdf2c5" titulo="Comunicación interna")
               .row
@@ -66,7 +66,7 @@
                 .col-xl-6
                   p Es la información que está dirigida específicamente a receptores externos a la organización, como: clientes, partes interesadas, medios de comunicación, gobierno local o nacional y la comunidad en general.
 
-    .row.justify-content-start.align-items-center.mb-5           
+    .row.justify-content-start.align-items-center.mb-5
       .col-lg-5
         .bgp-degradado.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Técnicas de comunicación
@@ -76,7 +76,7 @@
         .col-lg-10.justify-content-center
           p Después de clarificar y enunciar los tipos de comunicación que son segmentados de acuerdo con la población de interés, se estudian las técnicas de comunicación que se acostumbra llevar a cabo, dentro de las organizaciones.
 
-    .row 
+    .row
       p Para llevar a cabo una comunicación eficazmente, existen técnicas que mejoran la competencia en este ámbito y estas habilidades se encuentran conformadas por:
 
     TabsC.color-acento-contenido
@@ -94,7 +94,7 @@
             p Uno de los principales pilares de la comunicación se refiere a la precisión, comprensión y coherencia de la forma en que son emitidos los mensajes; también se debe tener en cuenta el interés que puedan generar: la información, la periodicidad, y el momento adecuado para realizar la difusión.
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/tema4/tema4-img10.svg', alt='Texto que describa la imagen')     
+              img(src='@/assets/curso/temas/tema4/tema4-img10.svg', alt='Texto que describa la imagen')
 
       .py-3.py-md-4(titulo="Escucha activa")
         .row
@@ -102,7 +102,7 @@
             p El objetivo de esta técnica es comprender la información que es recibida por otros emisores, permitiendo demostrar interés frente al público, con relación a los temas a tratar.
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/tema4/tema4-img11.svg', alt='Texto que describa la imagen')  
+              img(src='@/assets/curso/temas/tema4/tema4-img11.svg', alt='Texto que describa la imagen')
 
       .py-3.py-md-4(titulo="Comunicación no verbal")
         .row
@@ -110,7 +110,7 @@
             p La relevancia del lenguaje no verbal, permite mejorar la interacción entre los emisores y receptores, haciendo referencia al buen manejo de las posturas, los gestos y las expresiones faciales que hacen que la comunicación sea eficaz.
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/tema4/tema4-img12.svg', alt='Texto que describa la imagen')  
+              img(src='@/assets/curso/temas/tema4/tema4-img12.svg', alt='Texto que describa la imagen')
 
       .py-3.py-md-4(titulo="Síntesis")
         .row
@@ -118,9 +118,9 @@
             p La síntesis permite la comunicación eficaz, directa y concisa, mejorando el diálogo y disminuyendo la tendencia al aburrimiento o desinterés, en aquellos casos en que los temas son extensos.
           .col-md-4
             figure
-              img(src='@/assets/curso/temas/tema4/tema4-img13.svg', alt='Texto que describa la imagen')                              
+              img(src='@/assets/curso/temas/tema4/tema4-img13.svg', alt='Texto que describa la imagen')
 
-    .row.justify-content-start.align-items-center.mt-5           
+    .row.justify-content-start.align-items-center.mt-5
       .col-lg-5
         .bgp-degradado.p-1(data-aos="fade-right")
           h4(data-aos="fade-down").mb-0 Canales de comunicación
@@ -134,33 +134,33 @@
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema4/tema4-img15.svg', alt='Texto que describa la imagen')
-      
+
       .col-lg-8
-        p Dentro de este orden de ideas, las organizaciones deben tener claramente definidos los canales de comunicación, para que el tránsito de información sea emitido asertivamente; es por esto que el emisor debe contar con la competencia para conocer el canal de comunicación que se adecúe, de acuerdo con el tipo de información.        
-        .cajon.color-acento-contenido.p-4          
-          p Dentro de los canales de comunicación en las organizaciones se caracterizan:        
+        p Dentro de este orden de ideas, las organizaciones deben tener claramente definidos los canales de comunicación, para que el tránsito de información sea emitido asertivamente; es por esto que el emisor debe contar con la competencia para conocer el canal de comunicación que se adecúe, de acuerdo con el tipo de información.
+        .cajon.color-acento-contenido.p-4
+          p Los canales de comunicación más usados en las organizaciones son:
           .row
             .col-lg-6
               ol.color-vineta.lista-ul
                 li
                   i.color-vineta.fas.fa-angle-right
                   | Llamadas
-                li 
+                li
                   i.color-vineta.fas.fa-angle-right
                   | Chats
-                li 
+                li
                   i.color-vineta.fas.fa-angle-right
                   | Correo electrónico
 
             .col-lg-6
               ol.color-vineta.lista-ul
-                li 
+                li
                   i.color-vineta.fas.fa-angle-right
-                  | Redes sociales   
-                li 
+                  | Redes sociales
+                li
                   i.color-vineta.fas.fa-angle-right
                   | Mensajes de texto
-                li 
+                li
                   i.color-vineta.fas.fa-angle-right
                   | Altavoces
 
