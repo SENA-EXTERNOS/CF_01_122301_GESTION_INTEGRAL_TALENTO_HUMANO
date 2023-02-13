@@ -27,23 +27,23 @@
               figure
                 img.img-a.img-t(src='@/assets/curso/temas/tema2/tema2-img2.svg', alt='')
 
-            .tarjeta.color-infografica-tema1.p-3(x="21%" y="40%" numero="")
+            .tarjeta.color-infografica-tema1.p-3(x="21%" y="40%" numero="+")
               .h5.mb-2 Cortesía y amabilidad
               p El talento humano siempre debe contar con buena actitud y, sobre todo, con el máximo respeto hacia los clientes, para que el correcto proceder motive a las organizaciones a incrementar el volumen de ventas, por medio del enlace emocional que genera confianza, cuando se presta la atención, se escucha, se comprende y se atiende al cliente.
 
-            .tarjeta.color-infografica-tema1.p-3(x="35%" y="7%" numero="")
+            .tarjeta.color-infografica-tema1.p-3(x="35%" y="7%" numero="+")
               .h5.mb-2 Rapidez
               p Se refiere al cumplimiento en un tiempo oportuno; juega un papel crucial en la fidelización del mismo, pues este se complementa con una actitud adecuada, para así obtener la satisfacción del cliente, con una atención rápida y oportuna.
 
-            .tarjeta.color-infografica-tema1.p-3(x="57.5%" y="42.5%" numero="")
+            .tarjeta.color-infografica-tema1.p-3(x="57.5%" y="42.5%" numero="+")
               .h5.mb-2 Personalización
               p La atención personalizada va directamente relacionada con la necesidad de cada cliente; con respecto a la satisfacción de los requerimientos, este servicio adiciona valor agregado, porque al momento de prestar el servicio se evitan respuestas generales y se efectúa de acuerdo con un protocolo particular, adaptándose a la medida.
 
-            .tarjeta.color-infografica-tema1.p-3(x="66%" y="16.5%" numero="")
-              .h5.mb-2 Cortesía y amabilidad
-              p El talento humano siempre debe contar con buena actitud y, sobre todo, con el máximo respeto hacia los clientes, para que el correcto proceder motive a las organizaciones para incrementar el volumen de ventas, por medio del enlace emocional que genera confianza, cuando se presta la atención, se escucha, se comprende y se atiende al cliente.
+            .tarjeta.color-infografica-tema1.p-3(x="66%" y="16.5%" numero="+")
+              .h5.mb-2 Eficacia en resolución de conflictos
+              p Los inconvenientes pueden surgir en cualquier momento, y el talento humano debe estar preparado y apto para atender las adversidades que se presenten; hacerse responsable, sin minimizar, o pasarlo como imperceptible; asumir la correcta postura para hacerse cargo y brindar la solución más adecuada para el caso que lo amerita.
 
-            .tarjeta.color-infografica-tema1.p-3(x="65%" y="85%" numero="")
+            .tarjeta.color-infografica-tema1.p-3(x="65%" y="85%" numero="+")
               p Se evidencia que el cliente es un factor importante para tener en cuenta porque, de acuerdo con su satisfacción, la organización va a mejorar la experiencia y así se va a generar mayor fidelización e impulso para el crecimiento de las instituciones.
 
 

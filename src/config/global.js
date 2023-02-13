@@ -156,7 +156,7 @@ export default {
       link: 'https://www.youtube.com/watch?v=bLFCFLIaQ4A',
     },
     {
-      tema: 'PQRSD',
+      tema: 'Solicitud',
       referencia:
         'Servicio de empleo (2019). Conozca todo sobre PQRS [video]. YouTube.',
       tipo: 'Video',

@@ -18,7 +18,7 @@
 
 
       .row
-        p.mt-3 A continuación, se presentan los tipos de comunicación que se pueden encontrar en un contexto empresarial.
+        p.mt-3 A continuación, se presentan los tipos de comunicación que se pueden encontrar en un contexto empresarial:
 
       .row.justify-content-around.aling-items-center.mt-2
         .col-lg-3
@@ -91,7 +91,7 @@
       .py-3.py-md-4(titulo="Claridad del mensaje")
         .row
           .col-md-8.mb-4.mb-md-0
-            p Uno de los principales pilares de la comunicación se refiere a la precisión, comprensión y coherencia de la forma en que son emitidos los mensajes; también se debe tener en cuenta el interés que puedan generar: la información, la periodicidad, y el momento adecuado para realizar la difusión.
+            p Uno de los principales pilares de la comunicación se refiere a la precisión, comprensión y coherencia de la forma en que son emitidos los mensajes; también se debe tener en cuenta el interés que puedan generar: la información, la periodicidad y el momento adecuado para realizar la difusión.
           .col-md-4
             figure
               img(src='@/assets/curso/temas/tema4/tema4-img10.svg', alt='Texto que describa la imagen')
@@ -147,7 +147,7 @@
                   | Llamadas
                 li
                   i.color-vineta.fas.fa-angle-right
-                  | Chats
+                  | #[em Chats]
                 li
                   i.color-vineta.fas.fa-angle-right
                   | Correo electrónico

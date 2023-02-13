@@ -58,7 +58,7 @@
             p La mejor manera de evitar errores ortográficos, redacción, interpretación y/o de gramática, es leer detenidamente, previo al envío de correos, los documentos e informes.
 
           .row(numero="9" titulo="Puntualidad ")
-            p Una de las reglas más importantes para la atención al cliente; ser puntual es una demostración de compromiso, respeto e interés
+            p Una de las reglas más importantes para la atención al cliente; ser puntual es una demostración de compromiso, respeto e interés.
 
       .col-lg-4
         img(src='@/assets/curso/temas/tema3/tema3-img3.svg', alt='Texto que describa la imagen')
