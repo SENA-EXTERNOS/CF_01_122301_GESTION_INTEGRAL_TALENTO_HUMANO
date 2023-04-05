@@ -20,8 +20,7 @@
     .row.justify-content-around.align-items-center
 
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption VIDEO
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Uughh84mjOI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .tarjeta.color-adicional-1.mt-5
       .row.justify-content-center
