@@ -135,10 +135,10 @@
               .row
                 .col-lg-4.mt-5
                   figure
-                    img(src='@/assets/curso/temas/tema1/5.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/5.svg', alt='Texto que describa la imagen')
                 .col-lg-8
                   figure
-                    img(src='@/assets/curso/temas/tema1/4.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/4.svg', alt='Texto que describa la imagen')
 
         .row(titulo="Segmentación sociodemográfica")
           p Esta característica se encuentra directamente relacionada con el entorno social y económico del individuo, en donde se identifican variables como sexo, ubicación demográfica, nivel de estudios, ingresos económicos e intereses de estos.
@@ -147,7 +147,7 @@
               .row
                 .col-lg
                   figure
-                    img(src='@/assets/curso/temas/tema1/tema1-img14.png', alt='Texto que describa la imagen')
+                    img(src='@/assets/curso/temas/tema1/tema1-img14.svg', alt='Texto que describa la imagen')
 
 
 </template>
